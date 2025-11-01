@@ -1,16 +1,35 @@
-## Hi there 👋
+🧠 Tech Stack
 
-<!--
-**daveancheta/daveancheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Frontend
+- HTML
+- CSS
+- Blade (Laravel templating)
+- JavaScript
+- TypeScript
+- Inertia
+- React
+- Tailwind CSS
+- Bootstrap
 
-Here are some ideas to get you started:
+⚙️ Backend
+- Node.js
+- Express.js
+- Laravel
+- CodeIgniter
+- Php
+  
+🗄️ Database
+- MySQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 UI Libraries & Design Resources
+
+- shadcn/ui
+ – Modern, accessible React components
+
+- Lucide Icons
+ – Beautiful, customizable icon set for React
+
+- React Bits
+ – Reusable React component patterns and snippets
+
