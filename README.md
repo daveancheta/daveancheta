@@ -36,6 +36,8 @@ PHP
 
 MySQL
 
+PostgreSQL
+
 MongoDB
 
 🎨 UI Libraries & Design Resources
