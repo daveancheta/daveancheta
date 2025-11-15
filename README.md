@@ -34,6 +34,8 @@ PHP
 
 🗄️ Database
 
+SQLite
+
 MySQL
 
 PostgreSQL
