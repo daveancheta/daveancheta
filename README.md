@@ -10,7 +10,5 @@
 
 🚀 DevOps & Version Control: Git, GitHub, Docker
 
-![snake animation](https://github.com/daveancheta/daveancheta/blob/output/github-contribution-grid-snake.svg)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=daveancheta&style=for-the-badge&color=green)
