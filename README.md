@@ -10,4 +10,8 @@
 
 🚀 DevOps & Version Control: Git, GitHub, Docker
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daveancheta&show_icons=true)
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=daveancheta&style=for-the-badge&color=green)
