@@ -12,10 +12,12 @@
 - **Styling & UI:** Tailwind CSS, Bootstrap, shadcn/ui, Lucide Icons, React Bits  
 
 ### **Backend**
-- **Languages & Frameworks:** Node.js, Express.js, PHP, Laravel, CodeIgniter  
+- **Languages:** PHP, JavaScript (Node.js)  
+- **Frameworks & Libraries:** Laravel, CodeIgniter, Express.js  
 
 ### **Databases**
-- SQLite, MySQL, PostgreSQL, MongoDB  
+- **Relational:** MySQL, PostgreSQL, SQLite  
+- **Non-Relational:** MongoDB  
 
 ### **DevOps & Version Control**
 - Git, GitHub, Docker  
