@@ -9,3 +9,5 @@
 🎨 UI Libraries & Design Resources: shadcn/ui, ,Lucide Icons, React Bits
 
 🚀 DevOps & Version Control: Git, GitHub, Docker
+
+![Profile Views](https://komarev.com/ghpvc/?username=daveancheta&style=for-the-badge&color=green)
