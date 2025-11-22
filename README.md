@@ -8,12 +8,14 @@
 
 ### **Frontend**
 - **Languages & Templating:** HTML, CSS, JavaScript, TypeScript, Blade (Laravel)  
-- **Frameworks & Libraries:** React, Inertia.js  
-- **Styling & UI:** Tailwind CSS, Bootstrap, shadcn/ui, Lucide Icons, React Bits  
+- **Frameworks:** React, Inertia.js  
+- **Styling & UI Libraries:** Tailwind CSS, Bootstrap, shadcn/ui, Lucide Icons, React Bits  
+- **Libraries:** Axios, Socket.IO-client  
 
 ### **Backend**
 - **Languages:** PHP, JavaScript (Node.js)  
-- **Frameworks & Libraries:** Laravel, CodeIgniter, Express.js  
+- **Frameworks:** Laravel, CodeIgniter, Express.js  
+- **Libraries:** Axios, Socket.IO  
 
 ### **Databases**
 - **Relational:** MySQL, PostgreSQL, SQLite  
