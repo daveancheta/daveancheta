@@ -23,7 +23,3 @@
 
 ### **DevOps & Version Control**
 - Git, GitHub, Docker  
-
----
-
-✨ I love building clean, maintainable, and efficient web applications.
