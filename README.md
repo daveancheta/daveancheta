@@ -20,6 +20,3 @@
 ### **Databases**
 - **Relational:** MySQL, PostgreSQL, SQLite  
 - **Non-Relational:** MongoDB  
-
-### **DevOps & Version Control**
-- Git, GitHub, Docker  
