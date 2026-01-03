@@ -6,17 +6,22 @@
 
 ## 💻 Tech Stack
 
-### **Frontend**
-- **Languages & Templating:** HTML, CSS, JavaScript, TypeScript, Blade (Laravel)  
-- **Frameworks:** React, Inertia.js  
-- **Styling & UI Libraries:** Tailwind CSS, Bootstrap, shadcn/ui, Lucide Icons, React Bits  
-- **Libraries:** Axios, Socket.IO-client  
+### 🌐 Frontend
+- **Languages & Templating:** HTML, CSS, JavaScript, TypeScript, Blade (Laravel)
+- **Frameworks:** React, **Next.js**, Inertia.js
+- **Styling & UI:** Tailwind CSS, Bootstrap, shadcn/ui
+- **Icons & UI Tools:** Lucide Icons, React Bits
+- **Libraries:** Axios, Socket.IO Client
 
-### **Backend**
-- **Languages:** PHP, JavaScript (Node.js)  
-- **Frameworks:** Laravel, CodeIgniter, Express.js  
-- **Libraries:** Axios, Socket.IO  
+### ⚙️ Backend
+- **Languages:** PHP, JavaScript (Node.js)
+- **Frameworks:** Laravel, CodeIgniter, Express.js
+- **Real-Time & APIs:** Socket.IO, REST APIs
 
-### **Databases**
-- **Relational:** MySQL, PostgreSQL, SQLite  
-- **Non-Relational:** MongoDB  
+### 🗄️ Databases
+- **Relational:** MySQL, PostgreSQL, SQLite
+- **Non-Relational:** MongoDB
+
+---
+
+⭐ *Always learning, building, and improving.*
