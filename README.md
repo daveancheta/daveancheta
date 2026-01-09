@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Dave Ancheta
-
 ![Profile Views](https://komarev.com/ghpvc/?username=daveancheta&style=for-the-badge&color=green)
 
 ---
@@ -17,11 +16,15 @@
 - **Languages:** PHP, JavaScript (Node.js)
 - **Frameworks:** Laravel, CodeIgniter, Express.js
 - **Real-Time & APIs:** Socket.IO, REST APIs
+- **ORM:** **Prisma**
 
 ### 🗄️ Databases
 - **Relational:** MySQL, PostgreSQL, SQLite
 - **Non-Relational:** MongoDB
 
+### 🚀 Deployment & Hosting
+- **Platforms:** **Vercel**, **Railway**
+
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Continue learning and exploring new things, but don't forget to rest, be with someone you love, and always pray.*
