@@ -13,13 +13,12 @@ Full-stack developer passionate about building modern web applications with clea
 - **Templating:** Blade (Laravel)
 - **Frameworks & Libraries:** 
   - React
-  - **Next.js** (Production experience)
+  - **Next.js** 
   - Inertia.js
 - **Styling:** 
   - Tailwind CSS
   - Bootstrap
-  - shadcn/ui
-- **UI Components & Icons:** Lucide Icons, React Bits
+- **UI Components & Icons:** shadcn/ui, Lucide Icons, React Bits
 - **Animation:** GSAP
 - **HTTP Clients & Real-Time:** Axios, Socket.IO Client
 
@@ -30,14 +29,14 @@ Full-stack developer passionate about building modern web applications with clea
   - CodeIgniter
   - Express.js
 - **APIs & Real-Time:** REST APIs, Socket.IO
-- **ORM:** **Prisma**
+- **ORM:** Eloquent, **Prisma**
 
 ### Database Management
 - **Relational Databases:** MySQL, PostgreSQL, SQLite
 - **NoSQL Databases:** MongoDB
 
-### DevOps & Deployment
-- **Cloud Platforms:** **Vercel**, **Railway**
+## Deployment
+- **Cloud Platforms:** **Vercel**, **Railway**, **Neon**
 
 ---
 
