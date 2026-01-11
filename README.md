@@ -1,30 +1,44 @@
-# Hi there 👋, I'm Dave Ancheta
+# Dave Ancheta
+
 ![Profile Views](https://komarev.com/ghpvc/?username=daveancheta&style=for-the-badge&color=green)
 
+Full-stack developer passionate about building modern web applications with clean code and best practices.
+
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-### 🌐 Frontend
-- **Languages & Templating:** HTML, CSS, JavaScript, TypeScript, Blade (Laravel)
-- **Frameworks:** React, **Next.js**, Inertia.js
-- **Styling & UI:** Tailwind CSS, Bootstrap, shadcn/ui
-- **Icons & UI Tools:** Lucide Icons, React Bits
-- **Libraries:** Axios, Socket.IO Client
+### Frontend Development
+- **Languages & Markup:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Templating:** Blade (Laravel)
+- **Frameworks & Libraries:** 
+  - React
+  - **Next.js** (Production experience)
+  - Inertia.js
+- **Styling:** 
+  - Tailwind CSS
+  - Bootstrap
+  - shadcn/ui
+- **UI Components & Icons:** Lucide Icons, React Bits
+- **Animation:** GSAP
+- **HTTP Clients & Real-Time:** Axios, Socket.IO Client
 
-### ⚙️ Backend
+### Backend Development
 - **Languages:** PHP, JavaScript (Node.js)
-- **Frameworks:** Laravel, CodeIgniter, Express.js
-- **Real-Time & APIs:** Socket.IO, REST APIs
+- **Frameworks:**
+  - Laravel
+  - CodeIgniter
+  - Express.js
+- **APIs & Real-Time:** REST APIs, Socket.IO
 - **ORM:** **Prisma**
 
-### 🗄️ Databases
-- **Relational:** MySQL, PostgreSQL, SQLite
-- **Non-Relational:** MongoDB
+### Database Management
+- **Relational Databases:** MySQL, PostgreSQL, SQLite
+- **NoSQL Databases:** MongoDB
 
-### 🚀 Deployment & Hosting
-- **Platforms:** **Vercel**, **Railway**
+### DevOps & Deployment
+- **Cloud Platforms:** **Vercel**, **Railway**
 
 ---
 
-⭐ *Continue learning and exploring new things, but don't forget to rest, be with someone you love, and always pray.*
+> *"Continue learning and exploring new things, but don't forget to rest, be with someone you love, and always pray."*
